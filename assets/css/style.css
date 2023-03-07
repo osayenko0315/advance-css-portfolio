@@ -5,13 +5,52 @@
 }
 
 body {
-    background-color: #7ae411;
+    background-color:lightgray;
+}
+/* Header code */
+header {
+    justify-content: space-between;
+    flex-wrap: wrap;
+    list-style: none;
+    background-color:grey;
+    padding: 5px;
 }
 
-.header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
-    color: #ffffff;
+header h1{
+    color: var(--pop);
+    font-size: 40px;
+    font-weight: bold;
+    background-color: var(--secondary);
+    padding: 10px;
+    border: 5px solid var(--pop);
+}
+
+header nav ul {
+    display: flex; 
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    padding-right: 10px;
+  }
+    
+  header nav ul li {    
+    font-size: 1.8vw;    
+    padding: 15px 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;        
+  }
+  .hero {
+    background-image: url("../images/nyc.jpg");
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+    
+  
+  footer{ 
+    flex-direction: column;
 }
 
