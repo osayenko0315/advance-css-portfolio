@@ -6,10 +6,9 @@ I wrote the HTML and CSS for a sample professional portfolio which will be added
 * Site is divided into several sections About Me, My Work, and Contact Info.
 * I included functioning navigation links.
 * Included coming soon projects 
-* The non-placholder applications will take the user to the deployed application on my GitHub when clicked on.
 * The page was styled for multiple screen sizes.
 * I also included some on hover effects for the various links.
 
 ## Links
-* Link to code repository 
+* Link to code repository https://github.com/osayenko0315/advance-css-portfolio
 * Link to published page 
