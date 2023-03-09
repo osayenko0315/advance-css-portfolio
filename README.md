@@ -9,3 +9,7 @@ I wrote the HTML and CSS for a sample professional portfolio which will be added
 * The non-placholder applications will take the user to the deployed application on my GitHub when clicked on.
 * The page was styled for multiple screen sizes.
 * I also included some on hover effects for the various links.
+
+## Links
+* Link to code repository 
+* Link to published page 
