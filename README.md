@@ -1,6 +1,6 @@
 # advance-css-portfolio
 
-I wrote the HTML and CSS for a sample professional portfolio which will be added to over time to become my own personal portfolio of work. I used what I have learned in the first two weeks of the bootcamp to write the HTML and CSS from scratch, while keeping in mind the following requirements:
+I wrote the HTML and CSS for a sample professional portfolio which will be added to over time to become my own personal portfolio of work. I used what I have learned in the first two weeks of the bootcamp to write the HTML and CSS from scratch.
 
 ## Task Completed
 * Site is divided into several sections About Me, My Work, and Contact Info.
@@ -17,3 +17,4 @@ I wrote the HTML and CSS for a sample professional portfolio which will be added
 
 * https://developer.mozilla.org/en-US/docs/Web/CSS/height
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html
+* google for pictures/images
