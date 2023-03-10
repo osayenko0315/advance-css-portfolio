@@ -12,3 +12,8 @@ I wrote the HTML and CSS for a sample professional portfolio which will be added
 ## Links
 * Link to code repository https://github.com/osayenko0315/advance-css-portfolio
 * Link to published page 
+
+## Sources
+
+* https://developer.mozilla.org/en-US/docs/Web/CSS/height
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html
