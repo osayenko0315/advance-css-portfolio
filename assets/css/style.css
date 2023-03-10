@@ -54,8 +54,7 @@ header nav ul li a:hover {
 
 .hero .quote {
   font-size: 20px;  
-  display: flex;  
-  
+  display: flex;    
   text-align: right;
   color: yellow;
   font-weight: bold;
@@ -64,7 +63,6 @@ header nav ul li a:hover {
 
 .title {
   border-right: 5px solid blue;
-  min-height: 50px;
   text-align: right;
   padding-right: 40px;
   min-width: 20%;
@@ -78,7 +76,6 @@ header nav ul li a:hover {
 /*about me*/
 .about-me {
   display: flex;
-  justify-content: space-between;
   align-items: stretch;
   padding-top: 30px;
 }
@@ -91,12 +88,12 @@ header nav ul li a:hover {
   font-weight: bold;
 }
 
-about-me {
-  flex-direction: column;
+.about-me {
+  flex-direction: row;
 }
 
 .about-me p {
-  font-size: 15px;
+  font-size: 25px;
   line-height: 1.6;
   width: 100%;
   padding: 15px;
@@ -193,10 +190,10 @@ footer {
 }
 
 .content-wrapper {
-  width: 80%;
   display: flex;
   justify-content: center;
   align-items: center;
+  justify-content: center;
 }
 
 #contact-list {
