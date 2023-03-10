@@ -18,4 +18,5 @@ I wrote the HTML and CSS for a sample professional portfolio which will be added
 * https://developer.mozilla.org/en-US/docs/Web/CSS/height
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html
 * https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 * google for pictures/images
