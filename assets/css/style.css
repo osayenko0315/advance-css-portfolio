@@ -15,13 +15,12 @@ header {
   flex-wrap: wrap;
   list-style: none;
   background-color: grey;
-  padding: 20x;
 }
 
 header h1 {
   font-size: 30px;
   font-weight: bold;
-  padding: 5px;
+  padding-top: 35px;
 }
 
 header nav ul {
@@ -30,12 +29,11 @@ header nav ul {
   align-items: center;
   list-style: none;
   padding-right: 10px;
-  padding-top: 20px;
+  padding-top: 5px;
 }
 
 header nav ul li {
   font-size: 20px;
-
   margin: 20px 20px 0 0;
   font-weight: bold;
 }
@@ -52,6 +50,15 @@ header nav ul li a:hover {
   display: flex;
   align-items: center;
   justify-content: space-around;
+}
+
+.hero .quote {
+  font-size: 20px;  
+  display: flex;  
+  justify-content: end;
+  text-align: right;
+  color: yellow;
+  font-weight: bold;
 }
 
 .title {
@@ -99,11 +106,11 @@ about-me {
   padding: 30px 0;
   display: flex;
   justify-content: space-between;
-  background-color: var(--primary);
+  
 }
 
 .my-work h2 {
-  color: var(--secondary);
+  color: black;
 }
 
 .projects-grid-wrapper {
@@ -134,7 +141,7 @@ about-me {
 }
 
 .project:hover {
-  opacity: 1.0;
+  opacity: 1.5;
 }
 
 .surf-report {
@@ -167,14 +174,15 @@ about-me {
 .project-label {
   padding: 10px;
   color: black;
+  background-color: greenyellow;
 }
 
 /*contact me*/
 
 footer {
   display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
+    justify-content: space-between;
+    flex-wrap: wrap;
   list-style: none;
   background-color: grey;
   padding: 10x;
@@ -205,17 +213,15 @@ footer ul {
 
 footer ul li {
   font-weight: bold;
-  text-align: left;
-  justify-content: space-evenly;
-  padding-top: 5px;
+  
 }
 
 footer ul li a {
   text-decoration: none;
-  color: darkblue;
-  padding: 10px;
-  font-weight: bold;
-  text-decoration: underline;
+    color: darkblue;
+    padding: 8px;
+    font-weight: bold;
+
 }
 
 footer ul li a:hover {
