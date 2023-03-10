@@ -18,7 +18,7 @@ header {
 }
 
 header h1 {
-  font-size: 30px;
+  font-size: 50px;
   font-weight: bold;
   padding-top: 35px;
 }
@@ -30,10 +30,11 @@ header nav ul {
   list-style: none;
   padding-right: 10px;
   padding-top: 5px;
+  
 }
 
 header nav ul li {
-  font-size: 20px;
+  font-size: 30px;
   margin: 20px 20px 0 0;
   font-weight: bold;
 }
@@ -46,16 +47,15 @@ header nav ul li a:hover {
   background-image: url("../images/nyc.jpg");
   height: 400px;
   background-size: cover;
-  background-position: center;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: flex-end;
+  align-items: center;
 }
 
 .hero .quote {
   font-size: 20px;  
-  display: flex;    
-  text-align: right;
+  display: flex;   
   color: yellow;
   font-weight: bold;
   justify-content: right;
