@@ -55,10 +55,11 @@ header nav ul li a:hover {
 .hero .quote {
   font-size: 20px;  
   display: flex;  
-  justify-content: end;
+  
   text-align: right;
   color: yellow;
   font-weight: bold;
+  justify-content: right;
 }
 
 .title {
@@ -87,6 +88,7 @@ header nav ul li a:hover {
   padding: 300px;
   line-height: 1.6;
   width: 100%;
+  font-weight: bold;
 }
 
 about-me {
